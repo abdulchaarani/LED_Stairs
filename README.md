@@ -1,6 +1,5 @@
 # LED_Stairs
-Arduino program 
-HC-SR04 ultrasonic sensor
+Arduino program using HC-SR04 ultrasonic sensors.
 Turn on LED stairs when climbing up or down stairs. 
 Turn off LED stairs when reaching top or bottom or after delay.
 
